@@ -1,0 +1,33 @@
+#NEXUS
+[R-package APE, Tue Oct 18 08:28:48 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 10;
+	TAXLABELS
+		Mazzaella splendens
+		Gracilaria gracilis
+		Gelidium sesquipedale
+		Ecklonia radiata
+		Alaria nana
+		Pterygophora californica
+		Sargassum siliquosum
+		Cystoseira zosteroides
+		Ascophyllum nodosum
+		Fucus serratus
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Mazzaella splendens,
+		2	Gracilaria gracilis,
+		3	Gelidium sesquipedale,
+		4	Ecklonia radiata,
+		5	Alaria nana,
+		6	Pterygophora californica,
+		7	Sargassum siliquosum,
+		8	Cystoseira zosteroides,
+		9	Ascophyllum nodosum,
+		10	Fucus serratus
+	;
+	TREE * UNTITLED = [&R] ((1:0.2222222222,2:0.2222222222,3:0.2222222222)Rhodymeniophycidae_ott5275832:0.7777777778,(4:0.6666666667,(5:0.1111111111,6:0.1111111111)Alariaceae_ott878348:0.5555555556,((7:0.1111111111,8:0.1111111111)Sargassaceae_ott2820886:0.2222222222,(9:0.1111111111,10:0.1111111111)Fucaceae_ott1022958:0.2222222222)Fucales_ott446449:0.3333333333):0.3333333333);
+END;

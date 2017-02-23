@@ -1,0 +1,333 @@
+#NEXUS
+[R-package APE, Mon Oct 17 15:22:08 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 160;
+	TAXLABELS
+		Hoplocephalus_bungaroides_ott819492
+		Cryptophis_nigrescens_ott67154
+		Drymarchon_couperi_ott63064
+		Vipera_aspis_ott78572
+		Xenosaurus_platyceps_ott491076
+		Xenosaurus_grandis_ott690592
+		Sceloporus_grammicus_ott379349
+		Phrynosoma_cornutum_ott968168
+		Zootoca_vivipara_ott87626
+		Pernis_apivorus_ott1035863
+		Milvus_migrans_ott548448
+		Haliaeetus_albicilla_ott263118
+		Buteo_solitarius_ott34350
+		Coragyps_atratus_ott316995
+		Picoides_borealis_ott701708
+		Amazona_vittata_ott256853
+		Calyptorhynchus_lathami_ott716372
+		Falco_peregrinus_ott786435
+		Calidris_temminckii_ott149072
+		Sterna_hirundo_ott1057459
+		Anarhynchus_frontalis_ott703810
+		Anthropoides_paradiseus_ott510573
+		Nannopterum_auritus_ott170200
+		Bostrychia_hagedash_ott3596735
+		Fulmarus_glacialis_ott1028832
+		Thalassarche_melanophrys_ott320271
+		Phoebastria_immutabilis_ott320286
+		Tympanuchus_cupido_ott728073
+		Centrocercus_minimus_ott909953
+		Anser_anser_ott190887
+		Anser_caerulescens_ott190878
+		Himantopus_novaezelandiae_ott543952
+		Crocodylus_johnsoni_ott458978
+		Crocodylus_niloticus_ott35864
+		Chelodina_expansa_ott642964
+		Emydura_macquarii_ott2572
+		Podocnemis_lewyana_ott211855
+		Podocnemis_expansa_ott709468
+		Malaclemys_terrapin_ott1064070
+		Chrysemys_picta_ott587300
+		Sternotherus_odoratus_ott487672
+		Kinosternon_subrubrum_ott487664
+		Kinosternon_flavescens_ott487667
+		Kinosternon_integrum_ott944915
+		Eidolon_helvum_ott610862
+		Phacochoerus_aethiopicus_ott983664
+		Oreamnos_americanus_ott274550
+		Ovis_canadensis_ott123206
+		Ovis_aries_ott70819
+		Bos_frontalis_ott96935
+		Rangifer_tarandus_ott410153
+		Odocoileus_virginianus_ott410145
+		Hippocamelus_bisulcus_ott1063454
+		Alces_alces_ott460509
+		Orcinus_orca_ott124215
+		Eumetopias_jubatus_ott949686
+		Zalophus_californianus_ott95364
+		Callorhinus_ursinus_ott949693
+		Mirounga_leonina_ott175270
+		Mirounga_angustirostris_ott175268
+		Ursus_maritimus_ott10732
+		Mustela_erminea_ott681184
+		Enhydra_lutris_ott949676
+		Lontra_canadensis_ott656961
+		Lycalopex_culpaeus_ott776077
+		Urocyon_littoralis_ott682591
+		Canis_lupus_familiaris_ott247333
+		Acinonyx_jubatus_ott752759
+		Panthera_pardus_ott42324
+		Urocitellus_beldingi_ott359107
+		Urocitellus_armatus_ott359110
+		Urocitellus_columbianus_ott1014254
+		Spermophilus_dauricus_ott359105
+		Marmota_flaviventris_ott63459
+		Callospermophilus_lateralis_ott604319
+		Tamiasciurus_hudsonicus_ott866988
+		Myodes_rufocanus_ott563745
+		Microtus_oeconomus_ott1051081
+		Peromyscus_maniculatus_ott377525
+		Sigmodon_hispidus_ott576095
+		Rattus_fuscipes_ott271553
+		Lepus_europaeus_ott864607
+		Lagothrix_lagotricha_ott297528
+		Brachyteles_hypoxanthus_ott574171
+		Cebus_capucinus_ott217252
+		Saguinus_imperator_ott489221
+		Saguinus_fuscicollis_ott1015238
+		Pongo_abelii_ott770295
+		Gorilla_beringei_ott351685
+		Cercopithecus_mitis_ott203191
+		Papio_cynocephalus_ott115471
+		Macaca_mulatta_ott689650
+		Presbytis_thomasi_ott512437
+		Propithecus_verreauxi_ott696018
+		Propithecus_edwardsi_ott571030
+		Elephas_maximus_ott541928
+		Didelphis_aurita_ott810918
+		Petaurus_australis_ott630919
+		Pseudocheirus_peregrinus_ott836772
+		Petauroides_volans_ott1057268
+		Onychogalea_fraenata_ott234941
+		Antechinus_agilis_ott664295
+		Epidalea_calamita_ott436364
+		Brachyrhaphis_rhabdophora_ott154104
+		Poecilia_reticulata_ott312452
+		Cyprinodon_diabolis_ott33248
+		Clinocottus_analis_ott1053619
+		Cottus_bairdii_ott466855
+		Zoarces_viviparus_ott752564
+		Etheostoma_flabellare_ott790831
+		Stellifer_illecebrosus_ott248121
+		Ambloplites_rupestris_ott280003
+		Genypterus_blacodes_ott149385
+		Salvelinus_confluentus_ott688321
+		Sardina_pilchardus_ott1027727
+		Rutilus_rutilus_ott421037
+		Nocomis_leptocephalus_ott358409
+		Notropis_photogenis_ott550202
+		Astroblepus_ubidiai_ott3623844
+		Pylodictis_olivaris_ott139643
+		Isurus_oxyrinchus_ott73672
+		Thalia_democratica_ott674935
+		Mya_arenaria_ott7366
+		Nuttallia_obscurata_ott139252
+		Mytilus_californianus_ott1025558
+		Mytilus_galloprovincialis_ott423885
+		Umbonium_costatum_ott837131
+		Lepetodrilus_fucensis_ott213194
+		Haliotis_rufescens_ott820667
+		Haliotis_laevigata_ott780536
+		Helix_aspersa_ott349699
+		Eisenia_fetida_ott316451
+		Stratiodrilus_aeglaphilus_ott4979216
+		Pagurus_longicarpus_ott155682
+		Cardisoma_guanhumi_ott182900
+		Semibalanus_balanoides_ott374192
+		Colias_alexandra_ott765624
+		Boloria_eunomia_ott691609
+		Scolytus_ventralis_ott474996
+		Cephaloleia_fenestrata_ott789294
+		Cicindela_ohlone_ott3426015
+		Acyrthosiphon_pisum_ott814484
+		Daphnia_magna_ott668392
+		Daphnia_pulex_ott59086
+		Platygyra_sinensis_ott145351
+		Goniastrea_aspera_ott968679
+		Goniastrea_favulus_ott596439
+		Montastraea_annularis_ott250576
+		Pocillopora_damicornis_ott176783
+		Agaricia_agaricites_ott189473
+		Helioseris_cucullata_ott3675361
+		Acropora_cervicornis_ott3675085
+		Alcyonium_ott244271
+		Gorgonia_ventalina_ott352699
+		Leptogorgia_virgulata_ott49922
+		Paramuricea_clavata_ott115764
+		Plexaura_ott309739
+		Amphimedon_compressa_ott981298
+		Xestospongia_muta_ott880230
+		Spongia_graminea_ott2836341
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Hoplocephalus_bungaroides_ott819492,
+		2	Cryptophis_nigrescens_ott67154,
+		3	Drymarchon_couperi_ott63064,
+		4	Vipera_aspis_ott78572,
+		5	Xenosaurus_platyceps_ott491076,
+		6	Xenosaurus_grandis_ott690592,
+		7	Sceloporus_grammicus_ott379349,
+		8	Phrynosoma_cornutum_ott968168,
+		9	Zootoca_vivipara_ott87626,
+		10	Pernis_apivorus_ott1035863,
+		11	Milvus_migrans_ott548448,
+		12	Haliaeetus_albicilla_ott263118,
+		13	Buteo_solitarius_ott34350,
+		14	Coragyps_atratus_ott316995,
+		15	Picoides_borealis_ott701708,
+		16	Amazona_vittata_ott256853,
+		17	Calyptorhynchus_lathami_ott716372,
+		18	Falco_peregrinus_ott786435,
+		19	Calidris_temminckii_ott149072,
+		20	Sterna_hirundo_ott1057459,
+		21	Anarhynchus_frontalis_ott703810,
+		22	Anthropoides_paradiseus_ott510573,
+		23	Nannopterum_auritus_ott170200,
+		24	Bostrychia_hagedash_ott3596735,
+		25	Fulmarus_glacialis_ott1028832,
+		26	Thalassarche_melanophrys_ott320271,
+		27	Phoebastria_immutabilis_ott320286,
+		28	Tympanuchus_cupido_ott728073,
+		29	Centrocercus_minimus_ott909953,
+		30	Anser_anser_ott190887,
+		31	Anser_caerulescens_ott190878,
+		32	Himantopus_novaezelandiae_ott543952,
+		33	Crocodylus_johnsoni_ott458978,
+		34	Crocodylus_niloticus_ott35864,
+		35	Chelodina_expansa_ott642964,
+		36	Emydura_macquarii_ott2572,
+		37	Podocnemis_lewyana_ott211855,
+		38	Podocnemis_expansa_ott709468,
+		39	Malaclemys_terrapin_ott1064070,
+		40	Chrysemys_picta_ott587300,
+		41	Sternotherus_odoratus_ott487672,
+		42	Kinosternon_subrubrum_ott487664,
+		43	Kinosternon_flavescens_ott487667,
+		44	Kinosternon_integrum_ott944915,
+		45	Eidolon_helvum_ott610862,
+		46	Phacochoerus_aethiopicus_ott983664,
+		47	Oreamnos_americanus_ott274550,
+		48	Ovis_canadensis_ott123206,
+		49	Ovis_aries_ott70819,
+		50	Bos_frontalis_ott96935,
+		51	Rangifer_tarandus_ott410153,
+		52	Odocoileus_virginianus_ott410145,
+		53	Hippocamelus_bisulcus_ott1063454,
+		54	Alces_alces_ott460509,
+		55	Orcinus_orca_ott124215,
+		56	Eumetopias_jubatus_ott949686,
+		57	Zalophus_californianus_ott95364,
+		58	Callorhinus_ursinus_ott949693,
+		59	Mirounga_leonina_ott175270,
+		60	Mirounga_angustirostris_ott175268,
+		61	Ursus_maritimus_ott10732,
+		62	Mustela_erminea_ott681184,
+		63	Enhydra_lutris_ott949676,
+		64	Lontra_canadensis_ott656961,
+		65	Lycalopex_culpaeus_ott776077,
+		66	Urocyon_littoralis_ott682591,
+		67	Canis_lupus_familiaris_ott247333,
+		68	Acinonyx_jubatus_ott752759,
+		69	Panthera_pardus_ott42324,
+		70	Urocitellus_beldingi_ott359107,
+		71	Urocitellus_armatus_ott359110,
+		72	Urocitellus_columbianus_ott1014254,
+		73	Spermophilus_dauricus_ott359105,
+		74	Marmota_flaviventris_ott63459,
+		75	Callospermophilus_lateralis_ott604319,
+		76	Tamiasciurus_hudsonicus_ott866988,
+		77	Myodes_rufocanus_ott563745,
+		78	Microtus_oeconomus_ott1051081,
+		79	Peromyscus_maniculatus_ott377525,
+		80	Sigmodon_hispidus_ott576095,
+		81	Rattus_fuscipes_ott271553,
+		82	Lepus_europaeus_ott864607,
+		83	Lagothrix_lagotricha_ott297528,
+		84	Brachyteles_hypoxanthus_ott574171,
+		85	Cebus_capucinus_ott217252,
+		86	Saguinus_imperator_ott489221,
+		87	Saguinus_fuscicollis_ott1015238,
+		88	Pongo_abelii_ott770295,
+		89	Gorilla_beringei_ott351685,
+		90	Cercopithecus_mitis_ott203191,
+		91	Papio_cynocephalus_ott115471,
+		92	Macaca_mulatta_ott689650,
+		93	Presbytis_thomasi_ott512437,
+		94	Propithecus_verreauxi_ott696018,
+		95	Propithecus_edwardsi_ott571030,
+		96	Elephas_maximus_ott541928,
+		97	Didelphis_aurita_ott810918,
+		98	Petaurus_australis_ott630919,
+		99	Pseudocheirus_peregrinus_ott836772,
+		100	Petauroides_volans_ott1057268,
+		101	Onychogalea_fraenata_ott234941,
+		102	Antechinus_agilis_ott664295,
+		103	Epidalea_calamita_ott436364,
+		104	Brachyrhaphis_rhabdophora_ott154104,
+		105	Poecilia_reticulata_ott312452,
+		106	Cyprinodon_diabolis_ott33248,
+		107	Clinocottus_analis_ott1053619,
+		108	Cottus_bairdii_ott466855,
+		109	Zoarces_viviparus_ott752564,
+		110	Etheostoma_flabellare_ott790831,
+		111	Stellifer_illecebrosus_ott248121,
+		112	Ambloplites_rupestris_ott280003,
+		113	Genypterus_blacodes_ott149385,
+		114	Salvelinus_confluentus_ott688321,
+		115	Sardina_pilchardus_ott1027727,
+		116	Rutilus_rutilus_ott421037,
+		117	Nocomis_leptocephalus_ott358409,
+		118	Notropis_photogenis_ott550202,
+		119	Astroblepus_ubidiai_ott3623844,
+		120	Pylodictis_olivaris_ott139643,
+		121	Isurus_oxyrinchus_ott73672,
+		122	Thalia_democratica_ott674935,
+		123	Mya_arenaria_ott7366,
+		124	Nuttallia_obscurata_ott139252,
+		125	Mytilus_californianus_ott1025558,
+		126	Mytilus_galloprovincialis_ott423885,
+		127	Umbonium_costatum_ott837131,
+		128	Lepetodrilus_fucensis_ott213194,
+		129	Haliotis_rufescens_ott820667,
+		130	Haliotis_laevigata_ott780536,
+		131	Helix_aspersa_ott349699,
+		132	Eisenia_fetida_ott316451,
+		133	Stratiodrilus_aeglaphilus_ott4979216,
+		134	Pagurus_longicarpus_ott155682,
+		135	Cardisoma_guanhumi_ott182900,
+		136	Semibalanus_balanoides_ott374192,
+		137	Colias_alexandra_ott765624,
+		138	Boloria_eunomia_ott691609,
+		139	Scolytus_ventralis_ott474996,
+		140	Cephaloleia_fenestrata_ott789294,
+		141	Cicindela_ohlone_ott3426015,
+		142	Acyrthosiphon_pisum_ott814484,
+		143	Daphnia_magna_ott668392,
+		144	Daphnia_pulex_ott59086,
+		145	Platygyra_sinensis_ott145351,
+		146	Goniastrea_aspera_ott968679,
+		147	Goniastrea_favulus_ott596439,
+		148	Montastraea_annularis_ott250576,
+		149	Pocillopora_damicornis_ott176783,
+		150	Agaricia_agaricites_ott189473,
+		151	Helioseris_cucullata_ott3675361,
+		152	Acropora_cervicornis_ott3675085,
+		153	Alcyonium_ott244271,
+		154	Gorgonia_ventalina_ott352699,
+		155	Leptogorgia_virgulata_ott49922,
+		156	Paramuricea_clavata_ott115764,
+		157	Plexaura_ott309739,
+		158	Amphimedon_compressa_ott981298,
+		159	Xestospongia_muta_ott880230,
+		160	Spongia_graminea_ott2836341
+	;
+	TREE * UNTITLED = [&R] ((((122:0.7610062893,(121:0.7547169811,((103:0.641509434,(((9:0.05031446541,((4:0.01886792453,(3:0.01257861635,(1:0.006289308176,2:0.006289308176):0.006289308176):0.006289308176):0.0251572327,((5:0.006289308176,6:0.006289308176)Xenosaurus_ott690593:0.01257861635,(7:0.006289308176,8:0.006289308176)Phrynosomatinae_ott106818:0.01257861635):0.0251572327)Toxicofera_ott4945872:0.006289308176)Episquamata_ott4945816:0.2201257862,(((32:0.1383647799,((((15:0.03144654088,(14:0.0251572327,(10:0.01886792453,11:0.01886792453,(12:0.006289308176,13:0.006289308176):0.01257861635)Accipitrinae_ott786440:0.006289308176):0.006289308176):0.01886792453,(18:0.01257861635,(16:0.006289308176,17:0.006289308176):0.006289308176):0.03773584906):0.01886792453,(21:0.01257861635,(19:0.006289308176,20:0.006289308176):0.006289308176):0.05660377358):0.03773584906,(22:0.03144654088,((23:0.006289308176,24:0.006289308176):0.01886792453,(25:0.01257861635,(26:0.006289308176,27:0.006289308176)Diomedeidae_ott85277:0.006289308176):0.01257861635):0.006289308176):0.07547169811):0.03144654088,((28:0.006289308176,29:0.006289308176)Tetraoninae_ott999677:0.01257861635,(30:0.006289308176,31:0.006289308176)Anser_ott190884:0.01257861635)Galloanserae_ott5839486:0.1194968553)Neognathae_ott241846:0.01257861635,(33:0.006289308176,34:0.006289308176)Crocodylus_ott35868:0.1446540881)Archosauria_ott335588:0.06289308176,(((35:0.006289308176,36:0.006289308176):0.01257861635,(37:0.006289308176,38:0.006289308176)Podocnemis_ott709467:0.01257861635)Pleurodira_ott66459:0.03773584906,((39:0.006289308176,40:0.006289308176):0.0251572327,(41:0.01886792453,(44:0.01257861635,(42:0.006289308176,43:0.006289308176):0.006289308176)Kinosternon_ott149799:0.006289308176):0.01257861635)Durocryptodira_ott5800401:0.0251572327)Testudines_ott639666:0.1572327044)Archelosauria_ott4947372:0.05660377358)Sauria_ott329823:0.3647798742,((96:0.320754717,(((45:0.06289308176,(46:0.05660377358,(55:0.05031446541,((50:0.01886792453,(47:0.01257861635,(48:0.006289308176,49:0.006289308176)Ovis_ott540244:0.006289308176)Caprinae_ott122647:0.006289308176)Bovidae_ott768677:0.0251572327,(51:0.01886792453,52:0.01886792453,53:0.01886792453,54:0.01886792453)Odocoileinae_ott194507:0.0251572327):0.006289308176):0.006289308176):0.006289308176):0.08805031447,((((61:0.03144654088,((58:0.01257861635,(56:0.006289308176,57:0.006289308176):0.006289308176)Otariidae_ott749638:0.01257861635,(59:0.006289308176,60:0.006289308176)Mirounga_ott5551855:0.01886792453):0.006289308176):0.01886792453,(62:0.01257861635,(63:0.006289308176,64:0.006289308176):0.006289308176):0.03773584906):0.01886792453,(65:0.01257861635,(66:0.006289308176,67:0.006289308176):0.006289308176)Canidae_ott770319:0.05660377358)Caniformia_ott827263:0.01257861635,(68:0.006289308176,69:0.006289308176)Felidae_ott563159:0.07547169811)Carnivora_ott44565:0.06918238994):0.1635220126,((82:0.07547169811,((76:0.03773584906,(75:0.03144654088,(74:0.0251572327,(73:0.01886792453,(72:0.01257861635,(70:0.006289308176,71:0.006289308176):0.006289308176):0.006289308176):0.006289308176):0.006289308176):0.006289308176):0.03144654088,(81:0.0251572327,((77:0.006289308176,78:0.006289308176):0.01257861635,(79:0.006289308176,80:0.006289308176):0.01257861635):0.006289308176):0.04402515723)Rodentia_ott864593:0.006289308176)Glires_ott392220:0.08176100629,((((83:0.006289308176,84:0.006289308176):0.01886792453,(85:0.01257861635,(86:0.006289308176,87:0.006289308176)Saguinus_ott1015243:0.006289308176):0.01257861635):0.03773584906,((88:0.006289308176,89:0.006289308176)Hominidae_ott770311:0.0251572327,(93:0.01886792453,(90:0.01257861635,(91:0.006289308176,92:0.006289308176):0.006289308176)Cercopithecinae_ott842860:0.006289308176)Cercopithecidae_ott842868:0.01257861635)Catarrhini_ott842867:0.03144654088)Simiiformes_ott386195:0.01257861635,(94:0.006289308176,95:0.006289308176)Propithecus_ott311203:0.06918238994)Primates_ott913935:0.08176100629)Euarchontoglires_ott392222:0.1572327044)Boreoeutheria_ott5334778:0.006289308176)Eutheria_ott683263:0.03773584906,(97:0.03144654088,(102:0.0251572327,(101:0.01886792453,(98:0.01257861635,(99:0.006289308176,100:0.006289308176)Pseudocheiridae_ott141236:0.006289308176):0.006289308176):0.006289308176):0.006289308176):0.3270440252)Theria_ott229558:0.2767295597)Amniota_ott229560:0.006289308176)Tetrapoda_ott229562:0.106918239,((114:0.06289308176,(113:0.05660377358,((106:0.01257861635,(104:0.006289308176,105:0.006289308176)Poeciliinae_ott399706:0.006289308176)Cyprinodontoidei_ott312448:0.03773584906,((110:0.01886792453,(109:0.01257861635,(107:0.006289308176,108:0.006289308176)Cottales_ott5558359:0.006289308176)Cottioidei_ott237343:0.006289308176):0.01257861635,(111:0.006289308176,112:0.006289308176):0.0251572327):0.01886792453):0.006289308176)Percomorphaceae_ott5551466:0.006289308176)Euteleosteomorpha_ott5517919:0.03773584906,(115:0.03144654088,((118:0.01257861635,(116:0.006289308176,117:0.006289308176):0.006289308176):0.01257861635,(119:0.006289308176,120:0.006289308176)Siluriformes_ott701516:0.01886792453)Otophysi_ott285818:0.006289308176)Otomorpha_ott761450:0.06918238994)Clupeocephala_ott285819:0.6477987421)Euteleostomi_ott114654:0.006289308176)Gnathostomata_ott278114:0.006289308176):0.1383647799,((133:0.06289308176,(132:0.05660377358,(((123:0.006289308176,124:0.006289308176)Euheterodonta_ott1034370:0.01257861635,(125:0.006289308176,126:0.006289308176)Mytilus_ott1025560:0.01257861635):0.03144654088,(131:0.0251572327,(127:0.01886792453,128:0.01886792453,(129:0.006289308176,130:0.006289308176)Haliotis_ott228119:0.01257861635)Vetigastropoda_ott335938:0.006289308176)Gastropoda_ott409995:0.0251572327):0.006289308176):0.006289308176)Lophotrochozoa_ott155737:0.06918238994,((136:0.01257861635,(134:0.006289308176,135:0.006289308176):0.006289308176):0.05031446541,((142:0.03144654088,((137:0.006289308176,138:0.006289308176):0.01886792453,(141:0.01257861635,(139:0.006289308176,140:0.006289308176):0.006289308176)Coleoptera_ott865243:0.01257861635):0.006289308176):0.01257861635,(143:0.006289308176,144:0.006289308176)Daphnia_ott59084:0.03773584906):0.01886792453)Pancrustacea_ott985906:0.06918238994)Protostomia_ott189832:0.7672955975):0.08176100629,(((149:0.0251572327,(148:0.01886792453,(147:0.01257861635,(145:0.006289308176,146:0.006289308176):0.006289308176):0.006289308176):0.006289308176):0.01886792453,(150:0.01257861635,151:0.01257861635,152:0.01257861635):0.03144654088):0.03144654088,(153:0.0251572327,((154:0.006289308176,155:0.006289308176)Gorgoniidae_ott49916:0.01257861635,(156:0.006289308176,157:0.006289308176):0.01257861635):0.006289308176):0.05031446541)Cnidaria_ott641033:0.9056603774):0.01886792453,(160:0.01257861635,(158:0.006289308176,159:0.006289308176):0.006289308176)Demospongiae_ott67816:0.9874213836);
+END;
