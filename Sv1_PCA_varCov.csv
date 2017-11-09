@@ -1,0 +1,219 @@
+f,sens,var.sens,species,matDim,PC1,PC2,habitat
+0.35,0.003410556,3.59E-08,Primula_elatior,5,0.128575263,-0.029694512,Temperate
+0.65,0.003357454,4.19E-08,Primula_elatior,5,0.128575263,-0.029694512,Temperate
+0.35,0.000292088,3.08E-07,Eryngium_cuneifolium,6,-0.767366696,0.770722074,Temperate
+0.65,-0.000272648,2.00E-07,Eryngium_cuneifolium,6,-0.767366696,0.770722074,Temperate
+0.35,-0.000789241,1.85E-08,Agrimonia_eupatoria,4,0.553675377,-0.80361761,Temperate
+0.65,-0.00066791,1.70E-08,Agrimonia_eupatoria,4,0.553675377,-0.80361761,Temperate
+0.35,-0.00073004,1.70E-08,Coryphantha_robbinsorum,4,0.178925358,1.428813281,Arid
+0.65,-0.000570415,1.34E-08,Coryphantha_robbinsorum,4,0.178925358,1.428813281,Arid
+0.35,-0.000481495,7.36E-09,Petrocoptis_pseudoviscosa_2,6,-0.10748087,0.530428415,Temperate
+0.65,-0.000517177,6.81E-09,Petrocoptis_pseudoviscosa_2,6,-0.10748087,0.530428415,Temperate
+0.35,4.21E-05,8.36E-10,Papio_cynocephalus,8,0.304204516,-0.700522499,Tropical & Subtropical
+0.65,4.06E-05,9.02E-10,Papio_cynocephalus,8,0.304204516,-0.700522499,Tropical & Subtropical
+0.35,0.000947719,2.86E-09,Oenothera_deltoides,4,-0.629859417,-0.998825781,Arid
+0.65,0.001306193,3.07E-09,Oenothera_deltoides,4,-0.629859417,-0.998825781,Arid
+0.35,0.00048299,1.22E-08,Ardisia_elliptica,8,0.774118042,1.902304874,Tropical & Subtropical
+0.65,0.000398673,8.15E-09,Ardisia_elliptica,8,0.774118042,1.902304874,Tropical & Subtropical
+0.35,0.024150248,1.30E-06,Lotus_arinagensis,4,-1.150231169,-0.277415782,Temperate
+0.65,0.020665231,1.09E-06,Lotus_arinagensis,4,-1.150231169,-0.277415782,Temperate
+0.35,0.000643639,3.13E-09,Mammillaria_napina,7,0.293376271,0.155070468,Arid
+0.65,0.000787076,3.14E-09,Mammillaria_napina,7,0.293376271,0.155070468,Arid
+0.35,1.57E-06,6.36E-11,Taxus_floridana,9,1.067559356,-1.004223454,Temperate
+0.65,4.07E-06,3.08E-11,Taxus_floridana,9,1.067559356,-1.004223454,Temperate
+0.35,0.008839015,3.91E-07,Eryngium_alpinum,4,-0.218675843,0.284501798,Temperate
+0.65,0.00808202,3.56E-07,Eryngium_alpinum,4,-0.218675843,0.284501798,Temperate
+0.35,-0.000317246,1.64E-09,Propithecus_verreauxi,8,0.28861787,-1.01335301,Arid
+0.65,-0.000248321,1.45E-09,Propithecus_verreauxi,8,0.28861787,-1.01335301,Arid
+0.35,0.324313718,3.91E-05,Cleistes_divaricata_var._bifaria,5,-0.891864648,-1.021173673,Temperate
+0.65,0.291179522,2.88E-05,Cleistes_divaricata_var._bifaria,5,-0.891864648,-1.021173673,Temperate
+0.35,0.012215383,1.31E-06,Cleistes_divaricata_var._divaricata,5,-0.568859141,-0.828907314,Temperate
+0.65,0.012700693,1.77E-06,Cleistes_divaricata_var._divaricata,5,-0.568859141,-0.828907314,Temperate
+0.35,0.002455361,1.02E-08,Phyllanthus_indofischeri,7,0.884792419,1.213167527,Tropical & Subtropical
+0.65,0.002145452,1.17E-08,Phyllanthus_indofischeri,7,0.884792419,1.213167527,Tropical & Subtropical
+0.35,-0.061922551,3.37E-06,Mimulus_cardinalis,4,-1.639203948,2.433766557,Temperate
+0.65,-0.048890929,2.06E-06,Mimulus_cardinalis,4,-1.639203948,2.433766557,Temperate
+0.35,-0.005679338,1.36E-07,Xenosaurus_grandis,4,-0.678515617,-0.160134455,Tropical & Subtropical
+0.65,-0.005800349,1.59E-07,Xenosaurus_grandis,4,-0.678515617,-0.160134455,Tropical & Subtropical
+0.35,0.003286365,2.38E-08,Geum_rivale,5,0.324609212,-0.436365932,Temperate
+0.65,0.003230941,1.84E-08,Geum_rivale,5,0.324609212,-0.436365932,Temperate
+0.35,-0.000745385,2.21E-08,Limonium_geronense,4,-0.335406021,-0.578485643,Temperate
+0.65,-0.001016542,2.47E-08,Limonium_geronense,4,-0.335406021,-0.578485643,Temperate
+0.35,0.000728992,8.70E-09,Erodium_paularense,4,-0.162651076,-0.89728987,Temperate
+0.65,0.00107689,7.52E-09,Erodium_paularense,4,-0.162651076,-0.89728987,Temperate
+0.35,0.012183532,2.72E-07,Mimulus_lewisii,4,-1.494494852,2.63745051,Temperate
+0.65,0.011953322,2.41E-07,Mimulus_lewisii,4,-1.494494852,2.63745051,Temperate
+0.35,-0.003589928,2.05E-06,Arabis_fecunda,4,-0.848548759,0.041395607,Temperate
+0.65,-0.001123072,1.70E-06,Arabis_fecunda,4,-0.848548759,0.041395607,Temperate
+0.35,-0.011793775,1.33E-06,Atriplex_acanthocarpa,5,-0.927355802,-0.025233172,Arid
+0.65,-0.001980045,7.54E-07,Atriplex_acanthocarpa,5,-0.927355802,-0.025233172,Arid
+0.35,0.051921988,1.03E-06,Atriplex_canescens,5,-0.51687307,-0.033712318,Arid
+0.65,0.03824047,6.45E-07,Atriplex_canescens,5,-0.51687307,-0.033712318,Arid
+0.35,-0.000516581,1.30E-07,Astragalus_peckii,5,-1.03333716,-0.0829108,Arid
+0.65,-0.000910849,1.33E-07,Astragalus_peckii,5,-1.03333716,-0.0829108,Arid
+0.35,0.001011329,3.02E-08,Sapium_sebiferum,12,0.739505969,1.573382196,Temperate
+0.65,0.000534227,3.07E-08,Sapium_sebiferum,12,0.739505969,1.573382196,Temperate
+0.35,-0.005981588,5.40E-08,Helianthemum_polygonoides,4,-0.713991387,0.253955801,Temperate
+0.65,-0.00506628,7.67E-08,Helianthemum_polygonoides,4,-0.713991387,0.253955801,Temperate
+0.35,0.011572683,1.25E-07,Antirrhinum_lopesianum,4,-0.265500495,-0.928539075,Temperate
+0.65,0.010406063,1.39E-07,Antirrhinum_lopesianum,4,-0.265500495,-0.928539075,Temperate
+0.35,0.003277865,7.35E-08,Rumex_rupestris,4,-0.703998559,-1.33056086,Temperate
+0.65,0.003026509,4.82E-08,Rumex_rupestris,4,-0.703998559,-1.33056086,Temperate
+0.35,-0.000198859,2.23E-09,Castanea_dentata,8,1.264748308,-0.750832741,Temperate
+0.65,-0.000149557,2.65E-09,Castanea_dentata,8,1.264748308,-0.750832741,Temperate
+0.35,0.009267197,4.42E-07,Cytisus_scoparius,7,-0.577311565,1.799579239,Temperate
+0.65,0.00698467,3.73E-07,Cytisus_scoparius,7,-0.577311565,1.799579239,Temperate
+0.35,-0.003435893,9.61E-06,Purshia_subintegra,5,-0.28862342,3.282161095,Arid
+0.65,-0.003639541,4.63E-06,Purshia_subintegra,5,-0.28862342,3.282161095,Arid
+0.35,0.01147199,9.84E-08,Calochortus_lyallii,11,0.22440114,-0.356171082,Temperate
+0.65,0.008917305,1.95E-08,Calochortus_lyallii,11,0.22440114,-0.356171082,Temperate
+0.35,-0.002955055,1.43E-08,Limonium_malacitanum,4,-0.419630919,-1.13006161,Temperate
+0.65,-0.002998458,2.62E-08,Limonium_malacitanum,4,-0.419630919,-1.13006161,Temperate
+0.35,-0.000536333,2.24E-08,Xenosaurus_platyceps,4,-0.562800616,-0.104209695,Tropical & Subtropical
+0.65,-0.000483272,2.01E-08,Xenosaurus_platyceps,4,-0.562800616,-0.104209695,Tropical & Subtropical
+0.35,0.01049661,9.35E-07,Cimicifuga_elata,5,-0.262715683,0.019686057,Temperate
+0.65,0.01682638,8.46E-07,Cimicifuga_elata,5,-0.262715683,0.019686057,Temperate
+0.35,0.014183552,3.05E-07,Silene_spaldingii,4,-0.148921928,-0.672865662,Temperate
+0.65,0.013680193,1.64E-07,Silene_spaldingii,4,-0.148921928,-0.672865662,Temperate
+0.35,0.002336124,3.38E-07,Dicerandra_frutescens,6,-0.800925856,1.312176984,Temperate
+0.65,0.001296819,1.03E-06,Dicerandra_frutescens,6,-0.800925856,1.312176984,Temperate
+0.35,0.0018257,3.01E-08,Asplenium_adulterinum,4,0.139777347,-0.328767633,Temperate
+0.65,0.001565296,1.81E-08,Asplenium_adulterinum,4,0.139777347,-0.328767633,Temperate
+0.35,0.000645332,1.24E-08,Asplenium_cuneifolium,4,0.391920266,-0.214701019,Temperate
+0.65,0.000514486,1.29E-08,Asplenium_cuneifolium,4,0.391920266,-0.214701019,Temperate
+0.35,-0.018139867,3.79E-07,Polemonium_van-bruntiae,6,-0.620999218,1.152143281,Temperate
+0.65,-0.015762931,4.66E-07,Polemonium_van-bruntiae,6,-0.620999218,1.152143281,Temperate
+0.35,-3.27E-05,3.51E-08,Lathyrus_vernus,7,0.356227802,-0.486205986,Temperate
+0.65,-0.000367001,2.77E-08,Lathyrus_vernus,7,0.356227802,-0.486205986,Temperate
+0.35,0.014449617,3.22E-06,Pyrrocoma_radiata,4,-0.61331396,0.088203318,Arid
+0.65,0.017544861,2.58E-06,Pyrrocoma_radiata,4,-0.61331396,0.088203318,Arid
+0.35,-0.001704304,0.000101635,Cirsium_vulgare_3,4,-1.130111773,0.162202219,Temperate
+0.65,0.001677063,0.000144791,Cirsium_vulgare_3,4,-1.130111773,0.162202219,Temperate
+0.35,-0.000812754,9.45E-09,Cimicifuga_rubifolia,6,-0.448253477,-0.679567842,Tropical & Subtropical
+0.65,0.000197125,1.14E-08,Cimicifuga_rubifolia,6,-0.448253477,-0.679567842,Tropical & Subtropical
+0.35,-0.000638322,6.48E-09,Silene_acaulis,12,1.067838027,-0.112586456,Alpine & Arctic
+0.65,-0.00048653,3.50E-09,Silene_acaulis,12,1.067838027,-0.112586456,Alpine & Arctic
+0.35,-0.050062386,1.08E-06,Umbonium_costatum,6,-0.908895041,-0.158983629,Temperate
+0.65,-0.039267059,6.51E-07,Umbonium_costatum,6,-0.908895041,-0.158983629,Temperate
+0.35,-0.000770452,4.94E-08,Astroblepus_ubidiai,7,-0.96395721,0.007040481,Aquatic
+0.65,-0.000710801,4.40E-08,Astroblepus_ubidiai,7,-0.96395721,0.007040481,Aquatic
+0.35,0.002151089,3.29E-08,Ramonda_myconi,5,0.562076389,-0.319583998,Temperate
+0.65,0.002178518,2.79E-08,Ramonda_myconi,5,0.562076389,-0.319583998,Temperate
+0.35,1.17E-05,2.72E-10,Cercopithecus_mitis,9,0.359323272,-0.790904253,Tropical & Subtropical
+0.65,1.80E-05,2.66E-10,Cercopithecus_mitis,9,0.359323272,-0.790904253,Tropical & Subtropical
+0.35,0.001113014,1.53E-08,Primula_farinosa,4,0.059693642,-0.466180989,Temperate
+0.65,0.000271804,1.26E-08,Primula_farinosa,4,0.059693642,-0.466180989,Temperate
+0.35,-3.91E-06,1.58E-10,Gorilla_beringei,11,0.731625214,-0.878827205,Tropical & Subtropical
+0.65,4.24E-06,1.59E-10,Gorilla_beringei,11,0.731625214,-0.878827205,Tropical & Subtropical
+0.35,-3.05E-05,1.40E-10,Dioon_caputoi,5,2.03044893,0.080383197,Tropical & Subtropical
+0.65,-3.02E-05,6.42E-11,Dioon_caputoi,5,2.03044893,0.080383197,Tropical & Subtropical
+0.35,-0.006478305,4.81E-08,Anser_caerulescens,5,-0.80826143,-0.351397287,Alpine & Arctic
+0.65,-0.005516595,5.58E-08,Anser_caerulescens,5,-0.80826143,-0.351397287,Alpine & Arctic
+0.35,0.00804412,4.32E-08,Orchis_purpurea,6,0.111191317,1.941273506,Temperate
+0.65,0.007709182,4.38E-08,Orchis_purpurea,6,0.111191317,1.941273506,Temperate
+0.35,0.004091411,4.61E-07,Liatris_scariosa,5,-0.649894423,0.187479297,Temperate
+0.65,0.004450502,7.04E-07,Liatris_scariosa,5,-0.649894423,0.187479297,Temperate
+0.35,-4.25E-05,1.09E-10,Abies_concolor,5,1.64849649,-0.347830159,Temperate
+0.65,-2.25E-05,1.03E-10,Abies_concolor,5,1.64849649,-0.347830159,Temperate
+0.35,-5.19E-05,9.61E-10,Abies_magnifica,5,1.669196929,-0.297132652,Temperate
+0.65,-2.74E-05,8.81E-10,Abies_magnifica,5,1.669196929,-0.297132652,Temperate
+0.35,0.00037,1.27E-08,Mammillaria_hernandezii_2,7,-0.064493768,-0.334887786,Arid
+0.65,0.000514187,2.27E-08,Mammillaria_hernandezii_2,7,-0.064493768,-0.334887786,Arid
+0.35,-0.01188305,8.80E-07,Lomatium_bradshawii,5,-0.667315203,-0.469641636,Temperate
+0.65,-0.0043556,1.23E-06,Lomatium_bradshawii,5,-0.667315203,-0.469641636,Temperate
+0.35,-0.001171143,2.83E-08,Horkelia_congesta,6,-0.105427358,-0.465152036,Temperate
+0.65,-0.001120018,2.02E-08,Horkelia_congesta,6,-0.105427358,-0.465152036,Temperate
+0.35,-0.004630204,1.95E-08,Cecropia_obtusifolia,8,-0.359203652,2.321941021,Tropical & Subtropical
+0.65,-0.003944211,1.87E-08,Cecropia_obtusifolia,8,-0.359203652,2.321941021,Tropical & Subtropical
+0.35,-0.146864757,1.60E-05,Oxytropis_jabalambrensis,4,-1.114641315,-0.219387477,Temperate
+0.65,-0.121446382,8.94E-06,Oxytropis_jabalambrensis,4,-1.114641315,-0.219387477,Temperate
+0.35,0.01511409,3.40E-06,Astragalus_scaphoides_2,5,-0.433728748,-0.162213311,Arid
+0.65,0.02743362,1.39E-06,Astragalus_scaphoides_2,5,-0.433728748,-0.162213311,Arid
+0.35,-0.012677014,1.81E-07,Primula_veris_2,6,0.021308038,-0.069081339,Temperate
+0.65,-0.008172717,8.08E-08,Primula_veris_2,6,0.021308038,-0.069081339,Temperate
+0.35,0.004352977,1.38E-07,Armeria_merinoi,4,-0.701080642,-0.857035794,Temperate
+0.65,0.004199006,1.72E-07,Armeria_merinoi,4,-0.701080642,-0.857035794,Temperate
+0.35,0.005155196,4.34E-07,Lomatium_cookii,6,-0.233830662,0.032547056,Temperate
+0.65,0.007979332,1.67E-06,Lomatium_cookii,6,-0.233830662,0.032547056,Temperate
+0.35,-0.000165939,2.83E-10,Pinus_strobus,9,2.014598548,0.577952781,Temperate
+0.65,-0.000142091,2.42E-10,Pinus_strobus,9,2.014598548,0.577952781,Temperate
+0.35,0.000958461,8.66E-08,Succisa_pratensis_3,5,-0.276199451,0.578159747,Alpine & Arctic
+0.65,0.000264938,8.10E-08,Succisa_pratensis_3,5,-0.276199451,0.578159747,Alpine & Arctic
+0.35,-0.006642636,2.25E-07,Scolytus_ventralis_2,4,-0.688454591,0.269745106,Temperate
+0.65,-0.006730318,2.01E-07,Scolytus_ventralis_2,4,-0.688454591,0.269745106,Temperate
+0.35,-0.00080613,4.16E-09,Euterpe_edulis,7,1.082115789,1.695869775,Tropical & Subtropical
+0.65,-0.000748945,2.03E-09,Euterpe_edulis,7,1.082115789,1.695869775,Tropical & Subtropical
+0.35,0.000733837,2.38E-08,Anthropoides_paradiseus,5,-0.10295896,-0.037096518,Arid
+0.65,0.000796726,2.30E-08,Anthropoides_paradiseus,5,-0.10295896,-0.037096518,Arid
+0.35,-0.002058855,3.86E-08,Cirsium_palustre,6,-0.925584295,0.569819988,Temperate
+0.65,-0.001974208,4.55E-08,Cirsium_palustre,6,-0.925584295,0.569819988,Temperate
+0.35,-0.000156368,1.89E-07,Lupinus_tidestromii,5,-0.867605016,-0.605221469,Arid
+0.65,0.000464073,1.89E-07,Lupinus_tidestromii,5,-0.867605016,-0.605221469,Arid
+0.35,0.000544051,3.65E-09,Orcinus_orca_2,7,0.488955489,-0.32893678,Aquatic
+0.65,0.000500923,3.14E-09,Orcinus_orca_2,7,0.488955489,-0.32893678,Aquatic
+0.35,9.18E-05,2.87E-09,Cypripedium_calceolus,10,0.613140696,2.349011828,Temperate
+0.65,0.000123584,3.03E-09,Cypripedium_calceolus,10,0.613140696,2.349011828,Temperate
+0.35,0.000156278,4.65E-09,Shorea_leprosula,7,1.469598897,0.640515664,Tropical & Subtropical
+0.65,0.000128997,4.40E-09,Shorea_leprosula,7,1.469598897,0.640515664,Tropical & Subtropical
+0.35,9.56E-05,1.12E-08,Phyllanthus_emblica_3,7,0.548192504,-0.005721594,Temperate
+0.65,0.000170748,1.11E-08,Phyllanthus_emblica_3,7,0.548192504,-0.005721594,Temperate
+0.35,-0.008817829,7.00E-07,Molinia_caerulea,5,-0.196942389,1.229656114,Temperate
+0.65,-0.008043909,6.47E-07,Molinia_caerulea,5,-0.196942389,1.229656114,Temperate
+0.35,-0.006300159,1.68E-07,Calathea_ovandensis,8,-0.497957745,-0.208986925,Tropical & Subtropical
+0.65,-0.001824165,3.91E-08,Calathea_ovandensis,8,-0.497957745,-0.208986925,Tropical & Subtropical
+0.35,0.000252948,8.66E-09,Paramuricea_clavata,7,0.589137214,-1.152028025,Aquatic
+0.65,0.000435825,7.52E-09,Paramuricea_clavata,7,0.589137214,-1.152028025,Aquatic
+0.35,0.002428013,4.84E-08,Cryptantha_flava,7,-0.864156639,-0.584784526,Arid
+0.65,0.001280632,8.16E-08,Cryptantha_flava,7,-0.864156639,-0.584784526,Arid
+0.35,-0.000425641,2.73E-08,Cypripedium_fasciculatum,4,0.164225663,-0.535358071,Temperate
+0.65,-0.00055151,2.09E-08,Cypripedium_fasciculatum,4,0.164225663,-0.535358071,Temperate
+0.35,0.000503826,2.29E-07,Callospermophilus_lateralis,6,-1.74200196,-0.219003704,Temperate
+0.65,0.000468641,2.27E-07,Callospermophilus_lateralis,6,-1.74200196,-0.219003704,Temperate
+0.35,-0.000464716,3.35E-07,Colias_alexandra,7,-0.340992708,0.482930554,Temperate
+0.65,-0.000114774,3.91E-07,Colias_alexandra,7,-0.340992708,0.482930554,Temperate
+0.35,5.98E-05,2.09E-10,Brachyteles_hypoxanthus,10,0.673390772,-0.701939901,Tropical & Subtropical
+0.65,6.74E-05,2.12E-10,Brachyteles_hypoxanthus,10,0.673390772,-0.701939901,Tropical & Subtropical
+0.35,0.000546858,2.19E-08,Mammillaria_huitzilopochtli,5,-0.044501751,-1.979597195,Tropical & Subtropical
+0.65,0.000776556,2.17E-08,Mammillaria_huitzilopochtli,5,-0.044501751,-1.979597195,Tropical & Subtropical
+0.35,-0.000736227,2.92E-08,Catopsis_compacta,5,0.269540609,0.044627189,Tropical & Subtropical
+0.65,-0.000488084,2.80E-08,Catopsis_compacta,5,0.269540609,0.044627189,Tropical & Subtropical
+0.35,0.00165634,3.10E-08,Tillandsia_violacea,6,0.649896748,-0.91009001,Tropical & Subtropical
+0.65,0.001484345,3.37E-08,Tillandsia_violacea,6,0.649896748,-0.91009001,Tropical & Subtropical
+0.35,0.000178944,9.13E-10,Cebus_capucinus,8,0.427412931,-0.888385567,Tropical & Subtropical
+0.65,0.000182383,8.56E-10,Cebus_capucinus,8,0.427412931,-0.888385567,Tropical & Subtropical
+0.35,0.01015839,2.28E-07,Santolina_melidensis,4,-0.179825608,-1.055448534,Temperate
+0.65,0.012308971,1.93E-07,Santolina_melidensis,4,-0.179825608,-1.055448534,Temperate
+0.35,0.005231752,2.78E-08,Astragalus_tremolsianus,4,-0.007111808,-0.685530051,Temperate
+0.65,0.004650678,3.59E-08,Astragalus_tremolsianus,4,-0.007111808,-0.685530051,Temperate
+0.35,-0.002975516,1.47E-07,Zea_diploperennis,4,-0.662266033,0.407867568,Alpine & Arctic
+0.65,-0.003041735,1.22E-07,Zea_diploperennis,4,-0.662266033,0.407867568,Alpine & Arctic
+0.35,-0.000489656,4.49E-08,Astragalus_tyghensis,5,-0.772016815,-0.350154247,Temperate
+0.65,-0.000440021,4.06E-08,Astragalus_tyghensis,5,-0.772016815,-0.350154247,Temperate
+0.35,0.003643338,8.39E-08,Actaea_spicata,6,-0.098832984,1.012032835,Temperate
+0.65,0.003085751,5.17E-08,Actaea_spicata,6,-0.098832984,1.012032835,Temperate
+0.35,0.000656891,7.13E-09,Plantago_media,5,0.427278169,-0.949397121,Temperate
+0.65,0.000830039,8.34E-09,Plantago_media,5,0.427278169,-0.949397121,Temperate
+0.35,-0.013512025,3.96E-07,Ovis_aries_2,6,-0.562179014,-0.479163488,Temperate
+0.65,-0.01377176,2.29E-07,Ovis_aries_2,6,-0.562179014,-0.479163488,Temperate
+0.35,-2.58E-06,5.44E-11,Calocedrus_decurrens,5,2.022493206,0.333557172,Temperate
+0.65,-1.94E-06,5.76E-11,Calocedrus_decurrens,5,2.022493206,0.333557172,Temperate
+0.35,3.99E-05,3.00E-10,Neobuxbaumia_macrocephala,10,1.37257269,0.760870634,Tropical & Subtropical
+0.65,3.48E-05,2.33E-10,Neobuxbaumia_macrocephala,10,1.37257269,0.760870634,Tropical & Subtropical
+0.35,0.000382718,1.29E-08,Neobuxbaumia_mezcalaensis,10,1.501262141,0.839436314,Tropical & Subtropical
+0.65,-0.000824043,6.61E-09,Neobuxbaumia_mezcalaensis,10,1.501262141,0.839436314,Tropical & Subtropical
+0.35,-0.000378917,3.73E-09,Neobuxbaumia_tetetzo,10,1.600769834,0.85756479,Tropical & Subtropical
+0.65,-0.000371233,2.48E-09,Neobuxbaumia_tetetzo,10,1.600769834,0.85756479,Tropical & Subtropical
+0.35,-0.01134623,3.04E-07,Helianthemum_juliae,4,-0.48289276,0.003205776,Temperate
+0.65,-0.00821714,2.58E-07,Helianthemum_juliae,4,-0.48289276,0.003205776,Temperate
+0.35,2.81E-05,4.57E-08,Vella_pseudocytisus_subsp._paui,4,-0.02753762,-0.273143473,Temperate
+0.65,0.000885593,5.47E-08,Vella_pseudocytisus_subsp._paui,4,-0.02753762,-0.273143473,Temperate
+0.35,0.010697118,2.34E-07,Cirsium_pitcheri_8,4,-0.570177152,-0.405305258,Temperate
+0.65,0.009269129,2.42E-07,Cirsium_pitcheri_8,4,-0.570177152,-0.405305258,Temperate
+0.35,-5.55E-05,1.45E-08,Ambloplites_rupestris_2,3,-1.088250595,0.660866778,Aquatic
+0.65,-7.74E-05,1.46E-08,Ambloplites_rupestris_2,3,-1.088250595,0.660866778,Aquatic
+0.35,-0.026040243,5.80E-07,Cottus_bairdi,3,-1.274729371,0.665097413,Aquatic
+0.65,-0.022001122,6.46E-07,Cottus_bairdi,3,-1.274729371,0.665097413,Aquatic
+0.35,-0.3807477,0.001734838,Etheostoma_flabellare_2,3,-1.351641896,0.973858024,Aquatic
+0.65,-0.265815252,0.00089446,Etheostoma_flabellare_2,3,-1.351641896,0.973858024,Aquatic
+0.35,-0.002598685,1.95E-08,Tillandsia_macdougallii,3,0.507651023,-1.32951742,Tropical & Subtropical
+0.65,-0.002413284,1.94E-08,Tillandsia_macdougallii,3,0.507651023,-1.32951742,Tropical & Subtropical

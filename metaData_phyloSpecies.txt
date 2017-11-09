@@ -1,0 +1,10 @@
+Columns A-Q: http://www.compadre-db.org/Download/guide.pdf
+lambda: deterministic asymptotic population growth rate for each transition
+habitat: five habitat categories derived from Ecoregion 
+TACmodeled: was autocorrelated environmental variation modeled
+envStochModeled: was environmental stochasticty modeled
+megamatrices (patch dynamics) were used when  TACmodeled -> yes & envStochModeled -> no
+note: was environmental variation assessed in the same population as recorded in COM(P)ADRE? 
+invasive: was an invasive population modeled
+
+NA - information could not be obtained
